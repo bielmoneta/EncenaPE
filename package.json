@@ -1,7 +1,6 @@
 {
-  "name": "encenape",
-  "private": true,
-  "version": "0.0.0",
+  "name": "encena-pe",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +11,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "lucide-react": "^0.344.0",
-    "sonner": "^1.5.0"
+    "sonner": "^1.5.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.64",
